@@ -1,0 +1,13 @@
+title: ycz
+author: yangchengzhong
+description: little fat cat~.
+
+highlighter: null
+permalink: /:title
+
+url:
+baseurl:
+
+sass:
+  sass_dir: public/css
+  style: :compressed
